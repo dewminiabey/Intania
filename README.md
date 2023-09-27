@@ -1,2 +1,5 @@
-# Online_Food_Delivery_App
-SLIIT 2nd Year MAD Project
+                                  Instania Online Food Delivery App
+                                  Your Ultimate Food Ordering App
+
+
+
